@@ -84,9 +84,10 @@ const sessionOptions = {
 };
 
 //Creating A Basic API with Root"/"
-// app.get("/",(req,res)=>{
-//     res.send("Hi this is home/root page");
-// });
+app.get("/",(req,res)=>{
+    res.redirect("/listings");
+});
+
 
 
 
