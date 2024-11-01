@@ -63,11 +63,6 @@ Follow these steps to set up the project on your local machine.
    - Owners or admins can add, update, and delete properties.
    - Include property details such as description, images, amenities, and location.
 
- Screenshots
-Add relevant screenshots here.
-
- Contributing
-Contributions are welcome! Please open an issue or submit a pull request with any features, bug fixes, or improvements.
 
  License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
