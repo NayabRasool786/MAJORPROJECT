@@ -13,11 +13,11 @@ An Airbnb Clone project that emulates the essential functionalities of the Airbn
 
  Technologies
 This project uses the following technologies and frameworks:
-- Backend: Node.js, Express.js (or Python/Django, or other backend technology)
-- Database: MongoDB (or PostgreSQL, MySQL)
-- Frontend: React.js, Bootstrap (or any CSS framework)
-- Authentication: JSON Web Tokens (JWT)
-- Deployment: Docker, AWS (optional)
+- Backend: Node.js, Express.js 
+- Database: MongoDB 
+- Frontend: React.js, Bootstrap 
+- Authentication: JSON Web Tokens 
+
 
  Installation
 Follow these steps to set up the project on your local machine.
