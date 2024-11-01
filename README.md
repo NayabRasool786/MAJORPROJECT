@@ -1,5 +1,5 @@
-**Airbnb Clone
-**
+Airbnb Clone
+
 An Airbnb Clone project that emulates the essential functionalities of the Airbnb platform. This application allows users to browse, book properties, and manage listings, while offering separate roles for administrators and users. The project covers core features such as authentication, CRUD (Create, Read, Update, Delete) operations, and booking management, MVC pattern is applied to design this.
 
  Features
